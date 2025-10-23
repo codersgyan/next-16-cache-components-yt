@@ -16,11 +16,5 @@
     "name": "Headphones",
     "price": 149,
     "stock": 50
-  },
-  {
-    "id": 5,
-    "name": "Iphone",
-    "price": 3000,
-    "stock": 2
   }
 ]
