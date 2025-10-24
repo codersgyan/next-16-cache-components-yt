@@ -33,7 +33,7 @@
     "**/*.mts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/app/api/test-runtime/route.js"  ],
   "exclude": [
     "node_modules"
   ]
